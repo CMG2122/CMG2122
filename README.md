@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Este es un repositorio especial de Github.
 <!--
 **CMG2122/CMG2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
